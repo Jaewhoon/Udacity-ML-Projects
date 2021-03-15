@@ -6,9 +6,9 @@ Files in these folder are my project reports of Udacity Machine Learning classes
 
 ## 1)finding_donors
 #### Course : [NanoDegree] Introduction to Machine Learning with TensorFlow - Machine learning project
-####- Object 
+#### Object 
 : Making a predicting model that can predict a person would donate or not
-####- Sequence
+#### Sequence
 : Using census datasets (age, job, education, etc....) 
 : Searched informations of each machine learning models and chose 3 of them: AdaBoost, SGCD, SVC.
 : Playing those models with test sets, AdaBoost shows the best result. 
