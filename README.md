@@ -5,7 +5,8 @@
 Files in these folder are my project reports of Udacity Machine Learning classes.
 
 ## 1)finding_donors
-#### Course : [NanoDegree] Introduction to Machine Learning with TensorFlow - Machine learning project
+#### Course
+: [NanoDegree] Introduction to Machine Learning with TensorFlow - Machine learning project
 #### Object 
 : Making a predicting model that can predict a person would donate or not
 #### Sequence
