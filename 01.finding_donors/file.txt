@@ -1,2 +1,0 @@
-[Udacity] Introduction to Machine Learning with TensorFlow
-- Finding Donors Project
